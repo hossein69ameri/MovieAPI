@@ -11,6 +11,23 @@
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:windowBackground">@color/black</item>
         <!-- Customize your theme here. -->
+    </style>
+    <style name="TextViewLightStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/white</item>
+        <item name="fontFamily">sans-serif-light</item>
+    </style>
+    <!--TextInputLayout-->
+    <style name="CustomFilledBox" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="hintTextColor">@color/crayola</item>
+        <item name="boxStrokeColor">@color/crayola</item>
+        <item name="boxBackgroundColor">@color/gunmetal</item>
+        <item name="startIconTint">@color/philippineSilver</item>
+    </style>
+    <!--RoundedImageView-->
+    <style name="RoundedImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/_10mdp</item>
     </style>
 </resources>

@@ -3,9 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/bg_circle_dark.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/bg_rounded_dark.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/ic_round_access_time_24.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/ic_round_arrow_back_24.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/ic_round_calendar_today_24.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/ic_round_chevron_right_24.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/ic_round_email_24.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/ic_round_favorite_24.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/ic_round_home_24.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/ic_round_info_24.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/ic_round_language_24.xml" value="0.1725" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/drawable/shadow.xml" value="0.1725" />
         <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/layout/activity_main.xml" value="0.2675925925925926" />
-        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/layout/fragment_detail.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/layout/fragment_detail.xml" value="0.2675925925925926" />
         <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/layout/fragment_home.xml" value="0.2675925925925926" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/layout/item_detail_images.xml" value="0.32135416666666666" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/layout/item_home_genre_list.xml" value="0.32135416666666666" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/layout/item_home_movies_last.xml" value="0.32135416666666666" />
+        <entry key="..\:/Users/IDEHAL/AndroidStudioProjects/Movie_app/app/src/main/res/layout/item_home_movies_top.xml" value="0.32135416666666666" />
       </map>
     </option>
   </component>

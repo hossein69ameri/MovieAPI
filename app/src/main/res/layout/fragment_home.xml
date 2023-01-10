@@ -49,6 +49,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="@dimen/_10mdp"
                     android:text="@string/genres"
+                    android:textColor="@color/crayola"
                     android:textSize="@dimen/_12font_mdp"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
@@ -76,7 +77,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="@dimen/_10mdp"
-                    android:text="@string/last_movie"
+                    android:text="@string/last_movies"
+                    android:textColor="@color/crayola"
                     android:textSize="@dimen/_12font_mdp"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
