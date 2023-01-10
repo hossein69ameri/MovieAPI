@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Movie_app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="genres">Genres</string>
+    <string name="last_movie">Last Movie</string>
 </resources>
