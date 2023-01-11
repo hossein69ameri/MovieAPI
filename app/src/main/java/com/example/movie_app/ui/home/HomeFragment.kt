@@ -84,7 +84,11 @@ class HomeFragment : Fragment() {
                     lastMoviesAdapter
                 )
             }
-
+            //Click
+            lastMoviesAdapter.setOnItemClickListener {
+                val direction = HomeFragmentDirections.actionHomeFragmentToDetailFragment(it.id!!.toInt())
+                findNavController().navigate(direction)
+            }
 
             //Loading
             viewModel.loading.observe(viewLifecycleOwner) {

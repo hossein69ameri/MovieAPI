@@ -9,7 +9,11 @@
         android:id="@+id/detailFragment"
         android:name="com.example.movie_app.ui.detail.DetailFragment"
         android:label="fragment_detail"
-        tools:layout="@layout/fragment_detail" />
+        tools:layout="@layout/fragment_detail" >
+        <argument
+            android:name="movieID"
+            app:argType="integer" />
+    </fragment>
     <fragment
         android:id="@+id/homeFragment"
         android:name="com.example.movie_app.ui.home.HomeFragment"

@@ -1,5 +1,6 @@
 package com.example.movie_app.data.remote
 
+import com.example.movie_app.data.model.detail.ResponseDetail
 import com.example.movie_app.data.model.home.ResponseGenreLIst
 import com.example.movie_app.data.model.home.ResponseMoviesLIst
 import retrofit2.Response
@@ -16,5 +17,8 @@ interface ApiServises {
 
     @GET("movies")
     suspend fun moviesLastList(): Response<ResponseMoviesLIst>
+
+    @GET("movies/{movie_id}")
+    suspend fun detailMovie(@Path("movie_id") id: Int): Response<ResponseDetail>
 
 }
