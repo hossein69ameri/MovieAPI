@@ -9,8 +9,6 @@ MovieAPI is a sample Android project using [MoviesApi](https://moviesapi.ir/) ba
 
 MVVM architecture
 
-Reactive pattern
-
 Android Architecture Components
 
 Kotlin Coroutines + Flow
