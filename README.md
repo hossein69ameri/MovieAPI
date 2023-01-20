@@ -22,7 +22,7 @@ Dependency injection
 
 [Hilt](https://dagger.dev/hilt/)  - Dependency injection.
 
-[ViewBinding](https://developer.android.com/topic/libraries/view-binding)  - Dependency injection.
+[ViewBinding](https://developer.android.com/topic/libraries/view-binding)  
 
 [Android Architecture Components](https://developer.android.com/topic/libraries/architecture)  - A collections of libraries that help you design rebust, testable and maintainable apps.
 
